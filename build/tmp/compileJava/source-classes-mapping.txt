@@ -1,0 +1,6 @@
+com/nescalera/endpointdata/EndpointdataController.java
+ com.nescalera.endpointdata.EndpointdataController
+com/nescalera/endpointdata/ServletInitializer.java
+ com.nescalera.endpointdata.ServletInitializer
+com/nescalera/endpointdata/EndpointdataApplication.java
+ com.nescalera.endpointdata.EndpointdataApplication
